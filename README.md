@@ -1,3 +1,9 @@
+## Desafio
+
+![image](https://github.com/user-attachments/assets/bce4216b-602c-4378-8cdf-50084885f234)
+
+# Projeto
+
 # Sistema Bancário Simples com Interface Gráfica
 
 Este projeto é um **Sistema Bancário Simples** desenvolvido em Python, com uma interface gráfica criada usando a biblioteca Tkinter. Ele permite realizar operações de depósito, saque e consulta de extrato.
