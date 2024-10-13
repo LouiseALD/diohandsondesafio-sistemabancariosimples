@@ -6,7 +6,11 @@ Este projeto é um **Sistema Bancário Simples** desenvolvido em Python, com uma
 
 O projeto está organizado da seguinte maneira:
 
-banco_project/ │ ├── banco.py # Contém a classe Banco, que faz a lógica do sistema bancário ├── gui.py # Contém a interface gráfica usando Tkinter └── main.py # Arquivo principal que conecta tudo e executa o programa
+### Projeto bancario 
+
+               ├── banco.py # Contém a classe Banco, que faz a lógica do sistema bancário 
+               ├── gui.py # Contém a interface gráfica usando Tkinter 
+               └── main.py # Arquivo principal que conecta tudo e executa o programa
 
 
 
@@ -66,6 +70,7 @@ Sacar: Para retirar o valor do saldo (caso haja saldo suficiente).
 Extrato: Para ver todas as transações realizadas até o momento.
 
 Interface Gráfica
+
 A interface gráfica é simples e intuitiva. Aqui está um exemplo de como ela está:
 
 ![image](https://github.com/user-attachments/assets/350f77df-349d-4f96-a8d3-d5f7a774c324)
